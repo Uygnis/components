@@ -1,3 +1,6 @@
 [submodule "review1"]
 	path = review1
 	url = https://github.com/Uygnis/review1.git
+[submodule "tip-calculator"]
+	path = tip-calculator
+	url = https://github.com/Uygnis/tip-calculator.git
